@@ -1,0 +1,6 @@
+hello, this is a sample test file.
+Data engineering is a critical part of modern data platforms.
+It involves collecting, cleaning, and transforming raw data into useful formats.
+Python, SQL, and Spark are commonly used tools by data engineers.
+Good data quality and efficient pipelines are essential for reliable analytics.
+

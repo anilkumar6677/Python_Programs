@@ -19,7 +19,7 @@ what is in-built functions and UDF(user define functions) ?
 
 what is List and set and Dictionary ??
 
-what ius tuple ??
+what is tuple ??
 
 perform duplicate operation in list ??
 

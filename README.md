@@ -12,12 +12,14 @@ We have few types of operators are available like math operators, logical operat
 what is variables ??
 
 variable are used to store the data
+
 A = 10
 
 what is string ??
 
 string is a collection of letters. which is indicating the double("") or single code('')
-ex: "hanuman"
+
+ex: "hanuman",
     'Ram'
 
 

@@ -1,12 +1,22 @@
 # Python_Programs
 
 what is print??
+Print is in-built function to print the result in console 
 
 what operators ??
+Operators are used to perform some operation on the data 
+We have few types of operators are available like math operators, logical operators, conditional operators etc. 
+
 
 what is variables ??
+variable are used to store the data
+A = 10
 
 what is string ??
+string is a collection of letters. which is indicating the double("") or single code('')
+ex: "hanuman"
+    'Ram'
+
 
 what is conditional statementgs ??
 
